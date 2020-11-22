@@ -1,0 +1,62 @@
+body {
+  background-color: #ccc;
+}
+
+#corpo {
+  margin: 2px;
+}
+#item1 {
+  width: 150px;
+  float: left;
+  margin-right: 3px;
+  margin-bottom: 25px;
+  padding: 20px;
+  padding-right: 20px;
+  background-color: #90be6dff;
+}
+
+#item4 {
+  float: left;
+  width: 420px;
+  margin-left: 35px;
+}
+
+#item3 {
+  margin-top: 30px;
+}
+
+#footer-text {
+  margin-top: 10px;
+  clear: both;
+}
+#name {
+  text-align: center;
+  font-size: 2em;
+}
+
+.font-type-modify {
+  font-family: Cochin, 'Courier New', Courier, Helvetica, monospace;
+  text-decoration: bold;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.falar-publico {
+  font-size: 17px;
+  font-style: oblique;
+}
+
+.ouvir-pessoas {
+  font-size: 17px;
+}
+
+.trabalhar-equipe {
+  font-size: 17px;
+  font-style: italic;
+}
+
+.empatia {
+  font-size: 17px;
+}
